@@ -1,0 +1,7 @@
+numpy>=1.16.0, <1.24.0
+pandas
+fastparquet
+s3fs
+scikit-learn
+xgboost
+h5py # note: only needed for fcnet

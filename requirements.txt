@@ -1,0 +1,28 @@
+numpy>=1.16.0, <1.24.0
+dill>=0.3.6
+pandas~=2.0.0
+# only needed for python version lower than 3.8
+typing_extensions
+sortedcontainers~=2.4.0
+
+xgboost~=1.7.5
+scikit-learn~=1.2.2
+ray~=2.3.1
+sagemaker~=2.145.0
+setuptools~=58.1.0
+boto3~=1.26.109
+botocore~=1.29.109
+statsmodels~=0.13.5
+scipy~=1.10.1
+autograd~=1.5
+torch~=2.0.0
+botorch~=0.8.3
+gpytorch~=1.9.1
+pymoo~=0.6.0.1
+s3fs~=0.4.2
+h5py~=3.8.0
+ConfigSpace~=0.6.1
+tqdm~=4.65.0
+matplotlib~=3.7.1
+filelock~=3.11.0
+torchvision~=0.15.1

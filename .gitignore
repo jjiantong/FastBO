@@ -1,0 +1,14 @@
+.DS_Store
+.coverage
+.coverage.*
+coverage.xml
+.pytest_cache/
+*__pycache__
+*.egg-info
+.idea
+.vscode
+std.out
+st_venv/
+CIFAR10/
+FashionMNIST/
+wikitext-2/
